@@ -14,9 +14,9 @@
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="225dp" />
 ```
-### app:cancelIcon属性可以使用你自己的图标当做清除按钮，不写的话有一个默认icon。
-###  NixoEditText editText = findViewById(R.id.nixo_edit);获取控件。
-### 导入方法： 将java文件夹的NixoEditText放入你的项目中的java目录或子目录中，随后将res文件夹中的value里的attrs文件放入对应的文件夹即可。
+app:cancelIcon属性可以使用你自己的图标当做清除按钮，不写的话有一个默认icon。
+NixoEditText editText = findViewById(R.id.nixo_edit);获取控件。
+导入方法： 将java文件夹的NixoEditText放入你的项目中的java目录或子目录中，随后将res文件夹中的value里的attrs文件放入对应的文件夹即可。
 
 
 # By me
