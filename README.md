@@ -1,7 +1,7 @@
 # NixoEditText
 ## NixoEditText 目前是仅支持输入框清除功能的一个扩展EditText！
 
-#使用方法
+# 使用方法
 ## 可以下载Demo查看使用布局
 
 ## 布局文件中
